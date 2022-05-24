@@ -6,3 +6,12 @@
     font-family: 'Blade Runner Movie Font', sans-serif;
     color: #03DAC5;
 }
+
+
+
+  .nav-link.active {
+    background-color: #BB86FC !important;
+  }
+.btn-secondary{
+    background-color: #BB86FC !important;
+}
