@@ -20,6 +20,10 @@
     border:none #ffffff;
   }
 
+.bg-dark{
+  background-color: #121212 !important;
+}
+
 .logo1{
     font-family: 'Blade Runner Movie Font', sans-serif;
     color: #BB86FC;
